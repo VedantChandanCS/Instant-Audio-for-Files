@@ -20,7 +20,7 @@
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/Instant-Audio-for-Files.git
+   git clone https://github.com/VedantChandanCS/Instant-Audio-for-Files.git
    ```
 
 2. **Install the required libraries**:
